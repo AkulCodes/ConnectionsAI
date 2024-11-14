@@ -1,5 +1,5 @@
 # Project: 
-- TAMU Datathon winner Connections AI model.
+- TAMU Datathon first place winner Connections AI model.
 - Grouper for solving New York Times Connections using contextual and semantic similarity.
 - Flask Application for Category Detection and Word Puzzle Solving
 
